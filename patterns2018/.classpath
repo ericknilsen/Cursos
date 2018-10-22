@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="lib/javassist-3.19.0-GA.jar"/>
 	<classpathentry kind="lib" path="lib/reflections-0.9.10.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
