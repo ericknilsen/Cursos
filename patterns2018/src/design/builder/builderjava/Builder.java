@@ -1,4 +1,4 @@
-package design.builder;
+package design.builder.builderjava;
 
 import java.util.ArrayList;
 import java.util.Collections;
