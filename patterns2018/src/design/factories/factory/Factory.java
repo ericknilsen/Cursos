@@ -1,4 +1,4 @@
-package design.factories;
+package design.factories.factory;
 
 enum CoordinateSystem {
 	CARTESIAN, POLAR
