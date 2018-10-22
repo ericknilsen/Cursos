@@ -2,9 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/home/erick/Downloads/jar_files/reflections-0.9.10.jar"/>
-	<classpathentry kind="lib" path="/home/erick/Downloads/jar_files/javassist-3.19.0-GA.jar"/>
-	<classpathentry kind="lib" path="/home/erick/Downloads/jar_files/guava-15.0.jar"/>
-	<classpathentry kind="lib" path="/home/erick/Downloads/jar_files/annotations-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/annotations-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/reflections-0.9.10.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.8.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
