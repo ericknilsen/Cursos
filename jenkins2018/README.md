@@ -18,5 +18,6 @@ Config File Provider Plugin
 Checkstyle Plug-in
 FindBugs Plug-in
 PMD Plug-in
+Static Analysis Collector Plug-in
 ThinBackup
 ```
