@@ -13,3 +13,10 @@ Baixe o Maven
 
 Instale os seguintes plugins
 
+```
+Config File Provider Plugin
+Checkstyle Plug-in
+FindBugs Plug-in
+PMD Plug-in
+ThinBackup
+```
