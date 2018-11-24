@@ -1,3 +1,11 @@
+### Visão Geral
+
+Esta é a documentação que descreve a criação do ambiente para o curso de Jenkins disponível em [https://www.udemy.com/jenkins-continuous-integration-bootcamp/](https://www.udemy.com/jenkins-continuous-integration-bootcamp/)
+
+### Informações Relevantes
+
+* O autor do curso configurou o ambiente em Windows, mas decidi utilizar a imagem Docker _jenkinsci/blueocean_ para o mesmo propósito.
+* Os arquivos deste repositório foram gerados via backup utilizando o plugin ThinBackup do Jenkins. O ThinBackup guarda apenas configurações básicas do ambiente do Jenkins. Esta foi a maneira mais prática que encontrei para guardar as configurações criadas no curso. A outra opção é fazer o backup completo da pasta _jenkins_home_, mas os arquivos gerados desta forma são muito grandes.
 
 ### Setup
 
