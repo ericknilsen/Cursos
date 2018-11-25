@@ -51,3 +51,16 @@ Static Analysis Collector Plug-in
 Deploy to container	
 ThinBackup
 ```
+
+### Deploy no automático no Tomcat 8.0
+
+* Inicialize o container:
+```
+docker run -it --rm -p 9080:8080 tomcat:8.0
+```
+
+* Teste o funcionamento do Tomcat acessando o endereço [http://localhost:9080/](http://localhost:9080/)
+
+
+
+
