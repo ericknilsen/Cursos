@@ -28,22 +28,11 @@ $ docker run -p 8080:8080 -v `pwd`:/var/jenkins_home/ jenkinsci/blueocean
 
 * Acesse o endereço [http://localhost:8080](http://localhost:8080)
 
-* Faça o login no Jenkins
-```
-Username: admin
-Senha: admin
-```
+* Instale o Jenkins com sua configuração mínima (sem plugins)
 
-* Instale os seguintes plugins no Jenkins manualmente
-```
-Config File Provider Plugin
-Checkstyle Plug-in
-FindBugs Plug-in
-PMD Plug-in
-Static Analysis Collector Plug-in
-Deploy to container	
-ThinBackup
-```
+* Instale o plugin _ThinBackup_ no Jenkins manualmente
+
+* Faça o Restore do Backup no repositório
 
 ### Deploy automático com Tomcat 9.0
 
