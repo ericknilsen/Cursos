@@ -48,5 +48,6 @@ Checkstyle Plug-in
 FindBugs Plug-in
 PMD Plug-in
 Static Analysis Collector Plug-in
+Deploy to container	
 ThinBackup
 ```
