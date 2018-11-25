@@ -33,6 +33,7 @@ $ docker run -p 8080:8080 -v `pwd`:/var/jenkins_home/ jenkinsci/blueocean
 * Instale o plugin _ThinBackup_ no Jenkins manualmente
 
 * Faça o Restore do Backup no repositório
+Defina o valor da variável _Backup directory_ como _/var/jenkins_home/backup_
 
 ### Deploy automático com Tomcat 9.0
 
