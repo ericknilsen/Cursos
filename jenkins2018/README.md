@@ -45,7 +45,7 @@ Deploy to container
 ThinBackup
 ```
 
-### Deploy automático com Tomcat 8.0
+### Deploy automático com Tomcat 9.0
 
 * Vá para o diretório _jenkins2018/tomcat_ 
 
