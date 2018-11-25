@@ -1,0 +1,417 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<annotation-array>
+  <hudson.plugins.pmd.parser.Bug plugin="pmd@3.50">
+    <message>Avoid unused local variables such as &apos;valid&apos;.</message>
+    <priority>NORMAL</priority>
+    <key>-7431849921826006742</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/Tracker.java</fileName>
+    <moduleName>Time Tracker (Core)</moduleName>
+    <packageName>training.taylor.timetracker.core</packageName>
+    <category>Unused Code</category>
+    <type>UnusedLocalVariable</type>
+    <contextHashCode>1825507311</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core</pathName>
+    <primaryColumnStart>17</primaryColumnStart>
+    <primaryColumnEnd>21</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+  </hudson.plugins.pmd.parser.Bug>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Must have at least one statement.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006750</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>30</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Blocks</category>
+    <type>EmptyBlockCheck</type>
+    <contextHashCode>-258331395</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>13</primaryColumnStart>
+    <primaryColumnEnd>13</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.pmd.parser.Bug plugin="pmd@3.50">
+    <message>Avoid empty if statements.</message>
+    <priority>NORMAL</priority>
+    <key>-7431849921826006741</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>40</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Empty Code</category>
+    <type>EmptyIfStmt</type>
+    <contextHashCode>-1612642542</contextHashCode>
+    <origin>pmd</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>27</primaryColumnStart>
+    <primaryColumnEnd>9</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+  </hudson.plugins.pmd.parser.Bug>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Parameter value should be final.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006781</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao/TimeEntry.java</fileName>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName>training.taylor.timetracker.core.dao</packageName>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-423854715</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao</pathName>
+    <primaryColumnStart>32</primaryColumnStart>
+    <primaryColumnEnd>32</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.pmd.parser.Bug plugin="pmd@3.50">
+    <message>Avoid empty try blocks.</message>
+    <priority>NORMAL</priority>
+    <key>-7431849921826006744</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>32</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Empty Code</category>
+    <type>EmptyTryBlock</type>
+    <contextHashCode>-2054751404</contextHashCode>
+    <origin>pmd</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>13</primaryColumnStart>
+    <primaryColumnEnd>9</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+  </hudson.plugins.pmd.parser.Bug>
+  <hudson.plugins.findbugs.parser.Bug plugin="findbugs@4.72">
+    <message>training.taylor.timetracker.core.Tracker.get(int) assigns boolean literal in boolean expression</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006739</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>CORRECTNESS</category>
+    <type>QBA_QUESTIONABLE_BOOLEAN_ASSIGNMENT</type>
+    <contextHashCode>-7431849921826006738</contextHashCode>
+    <origin>findbugs</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+    <instanceHash>243ee76320b57a01a8777ef5e3d39c27</instanceHash>
+    <ageInDays>0</ageInDays>
+    <firstSeen>1543060113000</firstSeen>
+    <reviewCount>0</reviewCount>
+    <notAProblem>false</notAProblem>
+    <inCloud>true</inCloud>
+    <shouldBeInCloud>false</shouldBeInCloud>
+    <rank>5</rank>
+  </hudson.plugins.findbugs.parser.Bug>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006776</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1471458641</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.pmd.parser.Bug plugin="pmd@3.50">
+    <message>Avoid empty catch blocks.</message>
+    <priority>NORMAL</priority>
+    <key>-7431849921826006743</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>32</start>
+        <end>34</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>32</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Empty Code</category>
+    <type>EmptyCatchBlock</type>
+    <contextHashCode>589520682</contextHashCode>
+    <origin>pmd</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>11</primaryColumnStart>
+    <primaryColumnEnd>9</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+  </hudson.plugins.pmd.parser.Bug>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Inner assignments should be avoided.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006749</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Coding</category>
+    <type>InnerAssignmentCheck</type>
+    <contextHashCode>1178088997</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>19</primaryColumnStart>
+    <primaryColumnEnd>19</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006771</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>749247991</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006748</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Blocks</category>
+    <type>EmptyBlockCheck</type>
+    <contextHashCode>1665386120</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>27</primaryColumnStart>
+    <primaryColumnEnd>27</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>&apos;+&apos; should be on a new line.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006769</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>42</start>
+        <end>42</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>42</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>395677155</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/pathName"/>
+    <primaryColumnStart>29</primaryColumnStart>
+    <primaryColumnEnd>29</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.pmd.parser.Bug plugin="pmd@3.50">
+    <message>Do not use if statements that are always true or always false.</message>
+    <priority>NORMAL</priority>
+    <key>-7431849921826006745</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Basic</category>
+    <type>UnconditionalIfStatement</type>
+    <contextHashCode>1192091953</contextHashCode>
+    <origin>pmd</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>13</primaryColumnStart>
+    <primaryColumnEnd>16</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+  </hudson.plugins.pmd.parser.Bug>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[7]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006768</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>43</start>
+        <end>43</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>43</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>-281366320</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/pathName"/>
+    <primaryColumnStart>54</primaryColumnStart>
+    <primaryColumnEnd>54</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>&apos;if&apos; construct must use &apos;{}&apos;s.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006756</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>Blocks</category>
+    <type>NeedBracesCheck</type>
+    <contextHashCode>182233726</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.findbugs.parser.Bug plugin="findbugs@4.72">
+    <message>Dead store to valid in training.taylor.timetracker.core.Tracker.get(int)</message>
+    <priority>NORMAL</priority>
+    <key>-7431849921826006740</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.pmd.parser.Bug/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.pmd.parser.Bug/packageName"/>
+    <category>STYLE</category>
+    <type>DLS_DEAD_LOCAL_STORE</type>
+    <contextHashCode>-7431849921826006739</contextHashCode>
+    <origin>findbugs</origin>
+    <pathName reference="../../hudson.plugins.pmd.parser.Bug/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>6</build>
+    <tooltip></tooltip>
+    <instanceHash>2a33b276e678f8fb3abc434f0cc96f62</instanceHash>
+    <ageInDays>0</ageInDays>
+    <firstSeen>1543060113000</firstSeen>
+    <reviewCount>0</reviewCount>
+    <notAProblem>false</notAProblem>
+    <inCloud>true</inCloud>
+    <shouldBeInCloud>false</shouldBeInCloud>
+    <rank>17</rank>
+  </hudson.plugins.findbugs.parser.Bug>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[7]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006767</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>44</start>
+        <end>44</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>44</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/fileName"/>
+    <moduleName reference="../../hudson.plugins.pmd.parser.Bug/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>431280432</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[2]/pathName"/>
+    <primaryColumnStart>34</primaryColumnStart>
+    <primaryColumnEnd>34</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+</annotation-array>

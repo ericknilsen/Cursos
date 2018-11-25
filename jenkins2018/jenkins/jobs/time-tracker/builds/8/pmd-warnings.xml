@@ -1,0 +1,51 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<annotation-array>
+  <bug plugin="pmd@3.50">
+    <message>Avoid unused local variables such as &apos;valid&apos;.</message>
+    <priority>NORMAL</priority>
+    <key>3882423404116419352</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>31</start>
+        <end>31</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>31</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/Tracker.java</fileName>
+    <moduleName>Time Tracker (Core)</moduleName>
+    <packageName>training.taylor.timetracker.core</packageName>
+    <category>Unused Code</category>
+    <type>UnusedLocalVariable</type>
+    <contextHashCode>-866607331</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core</pathName>
+    <primaryColumnStart>17</primaryColumnStart>
+    <primaryColumnEnd>21</primaryColumnEnd>
+    <build>8</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.50">
+    <message>Avoid empty if statements.</message>
+    <priority>NORMAL</priority>
+    <key>3882423404116419353</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>33</start>
+        <end>35</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>33</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug/packageName"/>
+    <category>Empty Code</category>
+    <type>EmptyIfStmt</type>
+    <contextHashCode>-1612642542</contextHashCode>
+    <origin>pmd</origin>
+    <pathName reference="../../bug/pathName"/>
+    <primaryColumnStart>27</primaryColumnStart>
+    <primaryColumnEnd>9</primaryColumnEnd>
+    <build>4</build>
+    <tooltip></tooltip>
+  </bug>
+</annotation-array>

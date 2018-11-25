@@ -1,0 +1,11 @@
+commit ad31e78642f544863fbea8eca61e4c4997e62608
+tree 7b0122c3427d242ebe717a0fc7428d11ca26770b
+parent 5706fc58c6415d7b6220bb82fc78359c4983f585
+author Erick Souza <ericknilsen@gmail.com> 2018-11-24 09:06:10 -0300
+committer GitHub <noreply@github.com> 2018-11-24 09:06:10 -0300
+
+    Update Tracker.java
+
+
+
+:100644 100644 2c4cd8168ecb67ce35ea9112647e448173da677f f090135e8f5a6d2f9724653fdca4c7d568c6cb77 M	core/src/main/java/training/taylor/timetracker/core/Tracker.java

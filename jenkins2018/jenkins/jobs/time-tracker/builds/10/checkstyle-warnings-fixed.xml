@@ -1,0 +1,233 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<annotation-array>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;if&apos; construct must use &apos;{}&apos;s.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006756</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/Tracker.java</fileName>
+    <moduleName>Time Tracker (Core)</moduleName>
+    <packageName>training.taylor.timetracker.core</packageName>
+    <category>Blocks</category>
+    <type>NeedBracesCheck</type>
+    <contextHashCode>182233726</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter value should be final.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006781</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao/TimeEntry.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>training.taylor.timetracker.core.dao</packageName>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-423854715</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao</pathName>
+    <primaryColumnStart>32</primaryColumnStart>
+    <primaryColumnEnd>32</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006776</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1471458641</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[2]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[2]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006771</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>749247991</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[2]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;+&apos; should be on a new line.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006767</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>44</start>
+        <end>44</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>44</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>431280432</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[2]/pathName"/>
+    <primaryColumnStart>34</primaryColumnStart>
+    <primaryColumnEnd>34</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Inner assignments should be avoided.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006749</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Coding</category>
+    <type>InnerAssignmentCheck</type>
+    <contextHashCode>1178088997</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>19</primaryColumnStart>
+    <primaryColumnEnd>19</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Must have at least one statement.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006750</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>30</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Blocks</category>
+    <type>EmptyBlockCheck</type>
+    <contextHashCode>-258331395</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>13</primaryColumnStart>
+    <primaryColumnEnd>13</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006769</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>42</start>
+        <end>42</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>42</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>395677155</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[2]/pathName"/>
+    <primaryColumnStart>29</primaryColumnStart>
+    <primaryColumnEnd>29</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[7]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006748</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Blocks</category>
+    <type>EmptyBlockCheck</type>
+    <contextHashCode>1665386120</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>27</primaryColumnStart>
+    <primaryColumnEnd>27</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006768</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>43</start>
+        <end>43</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>43</primaryLineNumber>
+    <fileName reference="../../warning[2]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[2]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>-281366320</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[2]/pathName"/>
+    <primaryColumnStart>54</primaryColumnStart>
+    <primaryColumnEnd>54</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+</annotation-array>

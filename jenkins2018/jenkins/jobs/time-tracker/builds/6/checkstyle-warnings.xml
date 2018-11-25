@@ -1,0 +1,1015 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<annotation-array>
+  <warning plugin="checkstyle@3.50">
+    <message>Missing a Javadoc comment.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006763</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>11</start>
+        <end>11</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/Tracker.java</fileName>
+    <moduleName>Time Tracker (Core)</moduleName>
+    <packageName>training.taylor.timetracker.core</packageName>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>74731900</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter index should be final.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006751</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>29</start>
+        <end>29</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>29</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>405484366</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>26</primaryColumnStart>
+    <primaryColumnEnd>26</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006777</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao/TimeEntry.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName>training.taylor.timetracker.core.dao</packageName>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-434181960</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Missing package-info.java file.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006789</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1549192070</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006772</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>1786524672</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006779</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>24</start>
+        <end>24</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>24</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>1354533243</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getRate&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006780</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>24</start>
+        <end>24</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>24</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1841136990</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;if&apos; construct must use &apos;{}&apos;s.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006756</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Blocks</category>
+    <type>NeedBracesCheck</type>
+    <contextHashCode>182233726</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006764</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>9</start>
+        <end>9</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocTypeCheck</type>
+    <contextHashCode>1374517138</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter entry should be final.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006757</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>1994085795</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>24</primaryColumnStart>
+    <primaryColumnEnd>24</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;setTime&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006773</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-2021838877</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006786</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-1497752390</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006774</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>32</start>
+        <end>32</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>32</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>845245019</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Parameter value should be final.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006781</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-423854715</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>32</primaryColumnStart>
+    <primaryColumnEnd>32</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006788</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>12</start>
+        <end>12</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-1647555775</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;setRate&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006778</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>52421787</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006754</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1405563241</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[14]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006776</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1471458641</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006752</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>29</start>
+        <end>29</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>29</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>1442761047</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;setDescription&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006783</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1100025713</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[14]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006771</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>749247991</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>&apos;+&apos; should be on a new line.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006767</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>44</start>
+        <end>44</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>44</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>431280432</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>34</primaryColumnStart>
+    <primaryColumnEnd>34</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Inner assignments should be avoided.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006749</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Coding</category>
+    <type>InnerAssignmentCheck</type>
+    <contextHashCode>1178088997</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>19</primaryColumnStart>
+    <primaryColumnEnd>19</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Must have at least one statement.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006750</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>30</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Blocks</category>
+    <type>EmptyBlockCheck</type>
+    <contextHashCode>-258331395</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>13</primaryColumnStart>
+    <primaryColumnEnd>13</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;remove&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006759</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-777001073</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;toString&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006770</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>40</start>
+        <end>40</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>40</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>245492941</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;get&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006753</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>29</start>
+        <end>29</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>29</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1929364794</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;size&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006755</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-918959494</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006761</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-367200108</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;timeEntries&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006747</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/TrackerCoreConfig.java</fileName>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-917165555</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[10]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006760</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1404476789</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>21</primaryColumnStart>
+    <primaryColumnEnd>21</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006787</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>13</start>
+        <end>13</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-150492683</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006746</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../warning[30]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1403769302</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;add&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006762</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>119403639</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getTime&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006775</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>32</start>
+        <end>32</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>32</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1331848766</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[22]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006769</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>42</start>
+        <end>42</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>42</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>395677155</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>29</primaryColumnStart>
+    <primaryColumnEnd>29</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006758</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1263604820</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006782</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>613421966</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[22]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006766</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>45</start>
+        <end>45</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>45</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>-1093423849</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>34</primaryColumnStart>
+    <primaryColumnEnd>34</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[24]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006748</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>38</start>
+        <end>38</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>38</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Blocks</category>
+    <type>EmptyBlockCheck</type>
+    <contextHashCode>1665386120</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>27</primaryColumnStart>
+    <primaryColumnEnd>27</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message>Method &apos;getDescription&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-7431849921826006785</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>16</start>
+        <end>16</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1511259379</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006784</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>16</start>
+        <end>16</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1997863126</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[22]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006768</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>43</start>
+        <end>43</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>43</primaryLineNumber>
+    <fileName reference="../../warning[3]/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>-281366320</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning[3]/pathName"/>
+    <primaryColumnStart>54</primaryColumnStart>
+    <primaryColumnEnd>54</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+  <warning plugin="checkstyle@3.50">
+    <message reference="../../warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>-7431849921826006765</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../warning/fileName"/>
+    <moduleName reference="../../warning/moduleName"/>
+    <packageName reference="../../warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1506036826</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>4</build>
+  </warning>
+</annotation-array>
