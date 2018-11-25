@@ -1,0 +1,969 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<annotation-array>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Missing a Javadoc comment.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157124</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>11</start>
+        <end>11</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/Tracker.java</fileName>
+    <moduleName>Time Tracker (Core)</moduleName>
+    <packageName>training.taylor.timetracker.core</packageName>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>74731900</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Parameter index should be final.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157112</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>29</start>
+        <end>29</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>29</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>1849225267</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>26</primaryColumnStart>
+    <primaryColumnEnd>26</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157138</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao/TimeEntry.java</fileName>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName>training.taylor.timetracker.core.dao</packageName>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-434181960</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName>var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/dao</pathName>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Missing package-info.java file.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157150</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1549192070</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Line has trailing spaces.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157117</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>19</start>
+        <end>19</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>19</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>-806391259</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>9</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157133</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>1786524672</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157140</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>24</start>
+        <end>24</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>24</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>1354533243</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;getRate&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157141</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>24</start>
+        <end>24</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>24</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1841136990</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157125</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>9</start>
+        <end>9</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocTypeCheck</type>
+    <contextHashCode>1374517138</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Parameter entry should be final.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157118</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1692046021</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>24</primaryColumnStart>
+    <primaryColumnEnd>24</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;setTime&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157134</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-2021838877</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157147</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-1497752390</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157135</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>32</start>
+        <end>32</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>32</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>845245019</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Parameter value should be final.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157142</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-423854715</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>32</primaryColumnStart>
+    <primaryColumnEnd>32</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157149</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>12</start>
+        <end>12</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-1647555775</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;setRate&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157139</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>52421787</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157115</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1786913079</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[14]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157137</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>28</start>
+        <end>28</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>28</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-1471458641</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[5]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157111</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>30</start>
+        <end>30</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>30</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Regexp</category>
+    <type>RegexpSinglelineCheck</type>
+    <contextHashCode>552038685</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>9</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157113</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>29</start>
+        <end>29</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>29</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1408465348</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;setDescription&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157144</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1100025713</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[14]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157132</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>36</start>
+        <end>36</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>36</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>749247991</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>25</primaryColumnStart>
+    <primaryColumnEnd>25</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>&apos;+&apos; should be on a new line.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157128</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>44</start>
+        <end>44</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>44</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>431280432</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>34</primaryColumnStart>
+    <primaryColumnEnd>34</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;remove&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157120</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-168165593</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;toString&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157131</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>40</start>
+        <end>40</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>40</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>245492941</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;get&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157114</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>29</start>
+        <end>29</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>29</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-921861601</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157122</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>222955662</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;timeEntries&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157110</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/time-tracker/core/src/main/java/training/taylor/timetracker/core/TrackerCoreConfig.java</fileName>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-917165555</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;size&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157116</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>25</start>
+        <end>25</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>25</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1300309332</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[10]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157121</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Checks</category>
+    <type>FinalParametersCheck</type>
+    <contextHashCode>-814321019</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>21</primaryColumnStart>
+    <primaryColumnEnd>21</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157148</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>13</start>
+        <end>13</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocVariableCheck</type>
+    <contextHashCode>-150492683</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157109</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[28]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1403769302</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;add&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157123</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>14</start>
+        <end>14</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>709559409</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;getTime&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157136</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>32</start>
+        <end>32</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>32</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>1331848766</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[23]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157130</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>42</start>
+        <end>42</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>42</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>395677155</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>29</primaryColumnStart>
+    <primaryColumnEnd>29</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157119</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>18</start>
+        <end>18</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>18</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-654769340</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157143</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>20</start>
+        <end>20</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>20</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>613421966</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[23]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157127</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>45</start>
+        <end>45</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>45</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>-1093423849</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>34</primaryColumnStart>
+    <primaryColumnEnd>34</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message>Method &apos;getDescription&apos; is not designed for extension - needs to be abstract, final or empty.</message>
+    <priority>HIGH</priority>
+    <key>-5435294130255157146</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>16</start>
+        <end>16</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Design</category>
+    <type>DesignForExtensionCheck</type>
+    <contextHashCode>-1511259379</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157145</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>16</start>
+        <end>16</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocMethodCheck</type>
+    <contextHashCode>-1997863126</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>5</primaryColumnStart>
+    <primaryColumnEnd>5</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[4]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157126</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>0</start>
+        <end>0</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>0</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning/packageName"/>
+    <category>Javadoc</category>
+    <type>JavadocPackageCheck</type>
+    <contextHashCode>1506036826</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning/pathName"/>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+  <hudson.plugins.checkstyle.parser.Warning plugin="checkstyle@3.50">
+    <message reference="../../hudson.plugins.checkstyle.parser.Warning[23]/message"/>
+    <priority>HIGH</priority>
+    <key>-5435294130255157129</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.95">
+        <start>43</start>
+        <end>43</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>43</primaryLineNumber>
+    <fileName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/fileName"/>
+    <moduleName reference="../../hudson.plugins.checkstyle.parser.Warning/moduleName"/>
+    <packageName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/packageName"/>
+    <category>Whitespace</category>
+    <type>OperatorWrapCheck</type>
+    <contextHashCode>-281366320</contextHashCode>
+    <origin>checkstyle</origin>
+    <pathName reference="../../hudson.plugins.checkstyle.parser.Warning[3]/pathName"/>
+    <primaryColumnStart>54</primaryColumnStart>
+    <primaryColumnEnd>54</primaryColumnEnd>
+    <build>6</build>
+  </hudson.plugins.checkstyle.parser.Warning>
+</annotation-array>
