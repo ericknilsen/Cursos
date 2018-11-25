@@ -16,16 +16,9 @@ Esta é a documentação que descreve a criação do ambiente para o curso de Je
 $ git clone https://github.com/ericknilsen/Cursos
 ```
 
-* Navegue para o diretório jenkins2018
-```
-$ cd jenkins2018
-```
+* Navegue para o diretório _jenkins2018/jenkins_
 
 * Baixe e descompacte o Maven na pasta _downloads_
-
-```
-$
-```
 
 * Inicialize o container
 
@@ -52,15 +45,21 @@ Deploy to container
 ThinBackup
 ```
 
-### Deploy no automático no Tomcat 8.0
+### Deploy automático com Tomcat 8.0
+
+* Vá para o diretório _jenkins2018/tomcat_ 
 
 * Inicialize o container:
 ```
-docker run -it --rm -p 9080:8080 tomcat:8.0
+docker run -p 9080:8080 -v `pwd`:/bitnami/tomcat bitnami/tomcat:9.0
 ```
-
 * Teste o funcionamento do Tomcat acessando o endereço [http://localhost:9080/](http://localhost:9080/)
 
+* Verifique o IP da máquina host e o insira nas Ações de pós-build da configuração do Job
+o container que roda o Jenkins não enxerga o Tomcat em seu localhost. Portanto, é necessário fazê-lo apontar para o endereço real da máquina que está rodando o container do Tomcat. Ex: http://192.168.0.14:9080/
 
+* Rode o build do Job
+
+* Acesse o endereço para verificar se a implantação foi realizada: [http://localhost:9080/demo/](http://localhost:9080/demo/)
 
 
